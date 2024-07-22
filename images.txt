@@ -7,3 +7,4 @@
 
 sonicorg/sonic-server-controller:v2.6.4
 
+ollama/ollama
