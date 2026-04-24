@@ -11,4 +11,6 @@
 
 #alpine:3.13
 
-justsong/one-api
+#justsong/one-api
+
+postgres:latest
