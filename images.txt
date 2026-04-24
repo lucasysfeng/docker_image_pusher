@@ -5,10 +5,10 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-sonicorg/sonic-server-controller:v2.6.4
+#sonicorg/sonic-server-controller:v2.6.4
 
-ollama/ollama
+#ollama/ollama
 
-alpine:3.13
+#alpine:3.13
 
 justsong/one-api
