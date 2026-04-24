@@ -10,3 +10,5 @@ sonicorg/sonic-server-controller:v2.6.4
 ollama/ollama
 
 alpine:3.13
+
+justsong/one-api
